@@ -1,0 +1,8 @@
+{
+  "name": "Remix GameFeedback Hub - 玩家反馈与SMTP服务系统",
+  "description": "接收玩家游戏反馈并智能分类归档，支持后台实时查阅管理与SMTP邮件服务器配置及一键回邮通知",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

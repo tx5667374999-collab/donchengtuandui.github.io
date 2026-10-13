@@ -1,0 +1,118 @@
+{
+  "feedbacks": [
+    {
+      "id": "FB-20261011-0004",
+      "nickname": "bibubiu",
+      "email": "tx5667374999@gmail.com",
+      "subject": "Bug反馈",
+      "category": "Bug反馈",
+      "priority": "中",
+      "content": "hello",
+      "images": [],
+      "status": "已回复",
+      "createdAt": "2026-10-11 21:18:37",
+      "updatedAt": "2026-10-11 21:19:00",
+      "autoTags": [
+        "游戏逻辑异常"
+      ],
+      "replies": [
+        {
+          "id": "rep-001",
+          "content": "亲爱的玩家您好，您反馈的问题东城团队已收到并已记录排查，感谢您的支持！",
+          "sentAt": "2026-10-11 21:19:00",
+          "sentBy": "东城团队管理员",
+          "emailStatus": "sent",
+          "smtpResponse": "250 Ok: queued as 20261011211900"
+        }
+      ]
+    },
+    {
+      "id": "FB-20261011-0003",
+      "nickname": "唐秀",
+      "email": "tx5667374999@gmail.com",
+      "subject": "Bug反馈",
+      "category": "Bug反馈",
+      "priority": "中",
+      "content": "hello",
+      "images": [],
+      "status": "已回复",
+      "createdAt": "2026-10-11 21:09:50",
+      "updatedAt": "2026-10-11 21:11:00",
+      "autoTags": [
+        "游戏逻辑异常"
+      ],
+      "replies": [
+        {
+          "id": "rep-002",
+          "content": "您好，感谢您对游戏的支持，祝您游戏愉快！",
+          "sentAt": "2026-10-11 21:11:00",
+          "sentBy": "东城团队管理员",
+          "emailStatus": "sent"
+        }
+      ]
+    },
+    {
+      "id": "FB-20261011-0002",
+      "nickname": "mst",
+      "email": "tx5667374999@gmail.com",
+      "subject": "举报违规",
+      "category": "举报违规",
+      "priority": "高",
+      "content": "我去你妈",
+      "images": [],
+      "status": "已回复",
+      "createdAt": "2026-10-11 20:54:05",
+      "updatedAt": "2026-10-11 20:56:00",
+      "autoTags": [
+        "不当言论/辱骂",
+        "违规举报"
+      ],
+      "replies": [
+        {
+          "id": "rep-003",
+          "content": "已对被举报违规发言玩家进行核实并处以禁言处罚，净化游戏环境从我做起。",
+          "sentAt": "2026-10-11 20:56:00",
+          "sentBy": "东城团队管理员",
+          "emailStatus": "sent"
+        }
+      ]
+    },
+    {
+      "id": "FB-20261011-0001",
+      "nickname": "唐秀",
+      "email": "tx5667374999@gmail.com",
+      "subject": "举报违规",
+      "category": "举报违规",
+      "priority": "中",
+      "content": "122133213313",
+      "images": [],
+      "status": "已回复",
+      "createdAt": "2026-10-11 16:27:12",
+      "updatedAt": "2026-10-11 16:30:00",
+      "autoTags": [
+        "违规举报"
+      ],
+      "replies": [
+        {
+          "id": "rep-004",
+          "content": "收到举报信息，安全巡查员已介入取证。",
+          "sentAt": "2026-10-11 16:30:00",
+          "sentBy": "东城团队管理员",
+          "emailStatus": "sent"
+        }
+      ]
+    }
+  ],
+  "smtpConfig": {
+    "host": "smtp.qq.com",
+    "port": 587,
+    "secure": false,
+    "user": "3993661034@qq.com",
+    "pass": "gmwmiyivbysicgcd",
+    "fromEmail": "3993661034@qq.com",
+    "fromName": "东城团队",
+    "notificationEmail": "",
+    "template": "东城团队验证码523596，如果你不是你注册过的请忽略此验证码😻骗你的\n此致</br>\n东城团队",
+    "isConfigured": true
+  }
+}
